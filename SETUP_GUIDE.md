@@ -83,7 +83,7 @@ Edit `database.py` and verify/update the connection parameters:
 DB_CONFIG = {
     'host': 'localhost',        # MySQL host
     'user': 'root',             # MySQL username
-    'password': '#Bb.5121',     # MySQL password
+    'password': 'your_password',     # MySQL password
     'database': 'logistic'      # Database name
 }
 ```
@@ -469,3 +469,4 @@ For more information, see [README.md](README.md)
 
 **Last Updated:** February 2026  
 **Version:** 1.0
+
