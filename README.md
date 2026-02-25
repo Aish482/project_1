@@ -298,7 +298,7 @@ Edit credentials in `database.py`:
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': '#Bb.5121',
+    'password': 'your_password',
     'database': 'logistic'
 }
 ```
@@ -433,3 +433,4 @@ Developed as a Smart Logistics Management & Analytics Platform capstone project.
 **Last Updated**: February 2026
 **Version**: 1.0
 **Status**: Production Ready ✅
+
