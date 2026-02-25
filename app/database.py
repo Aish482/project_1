@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': '#Bb.5121',
+    'password': 'your_password',
     'database': 'logistic'
 }
 
@@ -180,3 +180,4 @@ if __name__ == "__main__":
     # Uncomment the next line only if you want to drop existing tables
     # drop_all_tables()
     create_tables()
+
