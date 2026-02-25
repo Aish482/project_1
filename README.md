@@ -1,3 +1,7 @@
+**Note: **Make sure to set DB password accordingly for database.py(check schema as well) and readme.md and then execute .\run.bat to view Streamlit logistic dashboard.
+
+
+
 # Smart Logistics Management & Analytics Platform
 
 ## 📋 Project Overview
@@ -433,4 +437,5 @@ Developed as a Smart Logistics Management & Analytics Platform capstone project.
 **Last Updated**: February 2026
 **Version**: 1.0
 **Status**: Production Ready ✅
+
 
